@@ -1,0 +1,9 @@
+D:\Bapok\CalculatorApps\CalculatorFormsApps\bin\Debug\CalculatorFormsApps.exe.config
+D:\Bapok\CalculatorApps\CalculatorFormsApps\bin\Debug\CalculatorFormsApps.exe
+D:\Bapok\CalculatorApps\CalculatorFormsApps\bin\Debug\CalculatorFormsApps.pdb
+D:\Bapok\CalculatorApps\CalculatorFormsApps\obj\Debug\CalculatorFormsApps.csprojResolveAssemblyReference.cache
+D:\Bapok\CalculatorApps\CalculatorFormsApps\obj\Debug\CalculatorFormsApps.Form1.resources
+D:\Bapok\CalculatorApps\CalculatorFormsApps\obj\Debug\CalculatorFormsApps.Properties.Resources.resources
+D:\Bapok\CalculatorApps\CalculatorFormsApps\obj\Debug\CalculatorFormsApps.csproj.GenerateResource.Cache
+D:\Bapok\CalculatorApps\CalculatorFormsApps\obj\Debug\CalculatorFormsApps.exe
+D:\Bapok\CalculatorApps\CalculatorFormsApps\obj\Debug\CalculatorFormsApps.pdb
